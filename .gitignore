@@ -1,0 +1,13 @@
+.vs
+.vscode
+**.cache
+**.dll
+**.exe*
+**.png
+**.props
+**.CopyComplete
+**.csproj*
+**.pdb
+
+TemporaryGeneratedFile_*
+Bootstrapper.cs
